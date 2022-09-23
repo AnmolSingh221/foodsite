@@ -84,7 +84,7 @@
 
 #home::before{
     content: "";
-    background: url(../harry.jpg) no-repeat center center/cover ;
+    background: url(harry.jpg) no-repeat center center/cover ;
     
     position: absolute;
     height: 100%;
